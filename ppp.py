@@ -28,11 +28,13 @@ hline2.addWidget(tb2)
 hline2.addWidget(l2)
 hline2.addWidget(tb3)
 hline3.addWidget(ag)
+hline4.addWidget(l3)
 hline4.addWidget(fin)
 
 #winline.addLayout(hline1)
 winline.addLayout(hline2)
 winline.addLayout(hline3)
+winline.addLayout(hline4)
 
 win.setLayout(winline)
 
