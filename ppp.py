@@ -22,7 +22,7 @@ def avc():
         rr = str(rr)
         fin.addItem(rr)
     else:
-        fin.addItem("Неверный диаппзон чисел")
+        fin.addItem("Неверный диапазон чисел.")
 
 def clear():
     fin.clear()
